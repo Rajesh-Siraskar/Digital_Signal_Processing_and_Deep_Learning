@@ -6,9 +6,11 @@
 - DSP: Basics - Aliasing, Nyquist Freq.,lowest detectable frequency
 - A signal sampled with a 32 KHz SR, any freq. components > 16 KHz (N.F.), we get an aliasing
 - Nyquist Frequency and the relation between sampling-rate and max. frequency
-- $F_{max} = Sampling Rate/2$
-  $F_{max}$ is called Nyquist Frequency
+```
+- F_{max} = Sampling Rate/2$
+- F_{max} is called Nyquist Frequency
 - Wav length (size) of np array = SR * duration of clip
+```
 - Sound perception: - link, link
 
 We perceive sound lograthimically
