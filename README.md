@@ -1,5 +1,5 @@
-# DIGITAL SIGNAL PROCESSING and DEEP-LEARNING
-=============================================
+## DIGITAL SIGNAL PROCESSING and DEEP-LEARNING
+--------------------------------------------------------
 
 ### Basics
 - DSP/Audio Features for ML: Valerio Velardo
