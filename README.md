@@ -24,7 +24,8 @@ applying the DFT, taking the log of the magnitude, and then warping the frequenc
 on a Mel scale, followed by applying the inverse DCT.
 	
 8. For deep learning, we use MFCC converted to images
-9. We build a CNN using TesonrFlow Keras
+9. We build a CNN using TensorFlow Keras
+10. To-Do: Build RNN, LSTM for DSP
 
 11. For additional technical notes please see: https://github.com/Rajesh-Siraskar/Digital_Signal_Processing_and_Deep_Learning/blob/main/README_DSP-Notes.ipynb
 
