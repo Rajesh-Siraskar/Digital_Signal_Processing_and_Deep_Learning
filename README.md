@@ -1,12 +1,12 @@
 ## Digital Signal Processing and Deep Learning
 --------------------------------------------------------
 
-This repository is:
+This repository is a study of **Digital Signal Processing techniques** for **Audio** signals
 
-1. A study of Digital Signal Processing techniques for Audio signals
-2. Creation of **features** for ML
-3. We look at creation of features for traditional ML - for example a SVM classifer
-4. And, we look at creating features for **Deep learning** techniques such as MLP, CNN, RNN and LSTM
+2. DSP helps creation of **features** for ML
+	- We look at creation of features for traditional ML - for example a SVM classifer
+	- And, we look at creating features for **Deep learning** techniques such as MLP, CNN, RNN and LSTM
+	
 5. For _traditional_ ML feature engineering, we look at Time domain, Frequency domain and  time-frequency features
 
 6. **Time Domain features**:
