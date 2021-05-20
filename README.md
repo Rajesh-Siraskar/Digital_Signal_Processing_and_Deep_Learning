@@ -29,3 +29,6 @@ on a Mel scale, followed by applying the inverse DCT.
 
 8. For additional technical notes please see: https://github.com/Rajesh-Siraskar/Digital_Signal_Processing_and_Deep_Learning/blob/main/README_DSP-Notes.ipynb
 
+Launch a project
+- 20-May-2021: Valve fault diagnotics based on sound files
+		- Attempt to train to recognize faulty valves
